@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "blog",
+    "name": "Blog",
     "slug": "blog",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/sp.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#002f3b"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
